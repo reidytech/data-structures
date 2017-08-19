@@ -1,6 +1,3 @@
 # data-structures
 
-## readme is killing me...
-
-
-
+## Added wrong README, more to come.
