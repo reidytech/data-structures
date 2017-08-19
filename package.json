@@ -1,0 +1,16 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jslint": "^0.11.0",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Reidy",
+  "license": "ISC"
+}
